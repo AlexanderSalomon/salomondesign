@@ -1,0 +1,58 @@
+[
+    {
+        "title": "LUMEN",
+        "category": "Brand Strategy & Visual Concept",
+        "description": "Brand strategy and visual concept for LUMEN.",
+        "images": ["images/lumen/LUMEN_COVER-80.jpg"],
+        "link": "lumen.html",
+        "target": "_self"
+    },
+    {
+        "title": "SHADE",
+        "category": "Brand Strategy & Visual Concept",
+        "description": "Seen by none. Controlled by you. Brand strategy and visual concept for a high-security, zero-knowledge digital communication tool designed for high-risk individuals like journalists, executives, and activists.",
+        "images": ["images/shade/SHADE_COVER-80.jpg"],
+        "link": "shade.html",
+        "target": "_self"
+    },
+    {
+        "title": "Mutant Font",
+        "category": "Type Design",
+        "description": "Mutant Font is a web-font designed to protect the privacy of those who have something to say on the internet. This project received international acclaim, including a Cannes Lions award. It explores the intersection of typography and digital privacy.",
+        "images": ["images/mutantfont/mutant_font_title.webp"],
+        "link": "mutant.html",
+        "target": "_blank"
+    },
+    {
+        "title": "RBS TV",
+        "category": "Rebranding",
+        "description": "RBS TV is a Southern Brazilian television network owned by RBS GROUP. This project involved a complete rebranding for one of the oldest Rede Globo affiliates, modernizing its visual identity while respecting its heritage.",
+        "images": ["images/rbs/rbs-tv_.webp"],
+        "link": "https://www.gruporbs.com.br/nossas-marcas/1/rbs-tv",
+        "target": "_blank"
+    },
+    {
+        "title": "Rede Massa TV",
+        "category": "Branding",
+        "description": "Logotype and branding for the SBT TV affiliate network in Paraná. The project established a cohesive visual system across multiple stations, ensuring brand consistency and recognition.",
+        "images": ["images/RedeMassa/rede_massa-1.webp"],
+        "link": "https://example.com/rede-massa",
+        "target": "_blank"
+    },
+    {
+        "title": "Ludus Alliance",
+        "category": "Marketing, UI/UX & Branding",
+        "description": "Comprehensive visual identity and digital product design for a martial arts technology company. The work included UI/UX design for their platform, social media strategy, and marketing materials.",
+        "images": ["images/ludus/ludus_alliance-1.webp"],
+        "link": "https://example.com/ludus-alliance",
+        "target": "_blank"
+    },
+    {
+        "title": "Orit Hasson",
+        "category": "UI/UX, Website Design.",
+        "description": "Website design for Orit Hasson, an Israeli contemporary artist. Something simple and modern.",
+        "images": ["images/Logo-animated-14.gif"],
+        "link": "https://orithasson.com/",
+        "target": "_blank"
+    }
+]
